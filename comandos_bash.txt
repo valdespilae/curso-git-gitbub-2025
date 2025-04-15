@@ -1,7 +1,6 @@
-ls  -> lista arquivos
-cd -> move entre diretórios
-pwd -> mostra directório de trabalho
+ls    -> lista arquivos
+cd    -> move entre diretórios
+pwd   -> mostra directório de trabalho
 mkdir -> criar um pasta
-cat -> ler o arquivo
-git init -> tornar uma pasta para versionamento de arquivo
-rm -rf.git/ -> apaga os aequivos .git * cuidado para nao executar este comando na pasta do seu window.
+cat   -> exibe o conteúdo do arquivo
+rm -rf.git/ -> remove arquivos do diretório .git * cuidado para nao executar este comando na pasta do seu window.
