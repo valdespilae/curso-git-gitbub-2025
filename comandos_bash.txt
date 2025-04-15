@@ -3,4 +3,5 @@ cd    -> move entre diretórios
 pwd   -> mostra directório de trabalho
 mkdir -> criar um pasta
 cat   -> exibe o conteúdo do arquivo
-rm -rf.git/ -> remove arquivos do diretório .git * cuidado para nao executar este comando na pasta do seu window.
+rm    -> remove arquivo ou diretório
+rm -rf -> remove de forma recursiva e forçada todos os diretórios * cuidado para nao executar este comando na pasta do seu window.
