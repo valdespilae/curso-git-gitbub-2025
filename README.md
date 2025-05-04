@@ -4,7 +4,9 @@ Um curso para iniciantes para aprenderem a trabalhar com versionamento de códig
 
 Além disso, vamos trabalhar GitFlow ao final do curso e Visual Studio Code.
 
-Confirma tudo o que temos no nosso Youtube. É gratis!
+Confirma tudo o que temos no nosso Youtube. É gratis! Segue o link
+[Curso Git 2025](https://youtube.com/@teomewhy)
+
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 01. git clone <endereco do projeto>
