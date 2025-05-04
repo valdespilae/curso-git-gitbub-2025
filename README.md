@@ -13,6 +13,16 @@ rolar em 2025.
 
 [teomewhy.org](https://teomewhy.org/schedule)
 
+## Fluxo de trabalho Git local
+01. git checkout -b <nova-branch>
+02. cria ou atualiza arquivos
+03. git status
+05. git add *arquivos*
+06. git status
+07. git commit -m "minha mensagem"
+08. git checkout main
+09. git merge nova_branch
+
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 01. git clone <endereco do projeto>
 02. git checkout -b <nova_branch>
