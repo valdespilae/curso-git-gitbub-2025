@@ -8,6 +8,10 @@ Confirma tudo o que temos no nosso Youtube. É gratis! Segue o link:
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentrp de tudo que vai
+rolar em 2025.
+
+[teomewhy.org](https://teomewhy.org/schedule)
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 01. git clone <endereco do projeto>
